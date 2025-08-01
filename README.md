@@ -1,42 +1,19 @@
-# Terms of Service
+# POPITO – Mobile Game
 
-Welcome to our mobile app!
+Welcome to the official site of **POPITO (Pop it!)**, a casual mobile game.
 
-By using this app, you agree to the following terms:
+---
 
-## 1. Use of the App
-You may use the app for personal and non-commercial purposes. You agree not to misuse, copy, or modify the app.
+## 📄 Legal Documents
 
-## 2. Changes
-We may update or modify the app and these terms at any time without notice. Continued use means you accept the changes.
+### 🇬🇧 English:
+- [Privacy Policy](/pp-en/)
+- [Terms of Service](/tos-en/)
 
-## 3. Limitation of Liability
-We are not liable for any damages or losses resulting from the use of the app.
+### 🇵🇱 Polish:
+- [Polityka prywatności (Privacy Policy)](/pp-pl/)
+- [Regulamin (Terms of Service)](/tos-pl/)
 
-## 4. Contact
-If you have questions about these terms, please contact us at [your-email@example.com].
+---
 
-Thank you for using our app!
-
-# Privacy Policy
-
-Your privacy is important to us.
-
-## 1. Data Collection
-We do not collect any personal information directly through the app.
-
-If the app uses third-party services (such as ads or analytics), those services may collect information according to their own privacy policies.
-
-## 2. Cookies and Tracking
-We do not use cookies directly. Third-party tools may use them to improve performance or track usage.
-
-## 3. Data Sharing
-We do not sell or share your data with third parties, except where required by law.
-
-## 4. Changes
-This privacy policy may be updated from time to time. Updates will be published on this page.
-
-## 5. Contact
-If you have questions about this policy, please contact us at [your-email@example.com].
-
-Last updated: July 31, 2025
+📧 Contact: [hello.kobusit@gmail.com](mailto:hello.kobusit@gmail.com)
