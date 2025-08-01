@@ -1,6 +1,6 @@
 ---
 title: Terms of Service
-permalink: /tos-en
+permalink: /tos-en/
 ---
 
 # Terms of Service – "POPITO"
