@@ -11,8 +11,8 @@ Welcome to the official site of **POPITO (Pop it!)**, a casual mobile game.
 - [Terms of Service](/tos-en/)
 
 ### 🇵🇱 Polish:
-- [Polityka prywatności (Privacy Policy)](/pp-pl)
-- [Regulamin (Terms of Service)](/tos-pl)
+- [Polityka prywatności (Privacy Policy)](/pp-pl/)
+- [Regulamin (Terms of Service)](/tos-pl/)
 
 ---
 

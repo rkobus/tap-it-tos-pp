@@ -8,3 +8,7 @@ navigation:
     url: /tos-en
   - title: Privacy Policy
     url: /pp-en
+  - title: Regulamin
+    url: /tos-pl
+  - title: Polityka prywatności
+    url: /pp-pl
