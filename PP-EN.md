@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-permalink: /pp-en
+permalink: /pp-en/
 ---
 
 # Privacy Policy – "POPITO"
@@ -9,7 +9,7 @@ permalink: /pp-en
 
 ## 1. Data Controller and Contact
 
-- The data controller is **Kobus IT**, contact: [hello.kobusit@gmail.com](mailto:hello.kobusit@gmail.com).
+- The data controller is **Kobusit**, contact: [hello.kobusit@gmail.com](mailto:hello.kobusit@gmail.com).
 
 ## 2. What Data is Collected?
 
