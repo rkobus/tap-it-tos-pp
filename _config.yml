@@ -5,6 +5,6 @@ show_downloads: false
 logo: /Icon.png
 navigation:
   - title: Terms of Service
-    url: /tos
+    url: /tos-en
   - title: Privacy Policy
-    url: /pp
+    url: /pp-en
