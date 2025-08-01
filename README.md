@@ -7,12 +7,12 @@ Welcome to the official site of **POPITO (Pop it!)**, a casual mobile game.
 ## 📄 Legal Documents
 
 ### 🇬🇧 English:
-- [Privacy Policy](/pp-en/)
-- [Terms of Service](/tos-en/)
+- [Privacy Policy](/pp-en)
+- [Terms of Service](/tos-en)
 
 ### 🇵🇱 Polish:
-- [Polityka prywatności (Privacy Policy)](/pp-pl/)
-- [Regulamin (Terms of Service)](/tos-pl/)
+- [Polityka prywatności (Privacy Policy)](/pp-pl)
+- [Regulamin (Terms of Service)](/tos-pl)
 
 ---
 
