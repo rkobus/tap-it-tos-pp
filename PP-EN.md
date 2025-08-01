@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-permalink: /pp
+permalink: /pp-en
 ---
 
 # PopIt Privacy Policy
